@@ -1,6 +1,59 @@
 # Desafio Sicredi API
 
-Projeto de automação criado na IDE Eclipse usando Rest-Assured, projeto desenvolvido com base na documentação enviada.
+Projeto de automação criado na IDE Eclipse usando Rest-Assured, projeto desenvolvido com base na documentação enviada. Os cenários mapeados estão listados abaixo:<br/>
+<br/>
+<br/>
+Restricoes<br/>
+    . consultar cpf com restricao<br/>
+    . consultar cpf sem restricao<br/>
+<br/>
+Simulacoes<br/>
+Criar simulacao<br/>
+    . criar simulacao corretamente com seguro true<br/>
+    . criar simulacao corretamente com seguro false<br/>
+    . criar simulacao sem cpf<br/>
+    . criar simulacao com cpf invalido<br/>
+    . criar simulacao sem nome<br/>
+    . criar simulacao sem email<br/>
+    . criar simulacao com email invalido<br/>
+    . criar simulacao sem valor<br/>
+    . criar simulacao com valor 999<br/>
+    . criar simulacao com valor 40.001<br/>
+    . criar simulacao sem parcela<br/>
+    . criar simulacao com parcela 1<br/>
+    . criar simulacao com parcela 49<br/>
+    . criar simulacao sem seguro<br/>
+    . criar simulacao com cpf existinte<br/>
+<br/>
+Alterar simulacao<br/>
+    . alterar simulacao corretamente com seguro true<br/>
+    . alterar simulacao corretamente com seguro false<br/>
+    . alterar simulacao sem cpf<br/>
+    . alterar simulacao com cpf invalido<br/>
+    . alterar simulacao sem nome<br/>
+    . alterar simulacao sem email<br/>
+    . alterar simulacao com email invalido<br/>
+    . alterar simulacao sem valor<br/>
+    . alterar simulacao com valor 999<br/>
+    . alterar simulacao com valor 40.001<br/>
+    . alterar simulacao sem parcela<br/>
+    . alterar simulacao com parcela 1<br/>
+    . alterar simulacao com parcela 49<br/>
+    . alterar simulacao sem seguro<br/>
+    . alterar simulacao com cpf existinte<br/>
+    . alterar simulacao com cpf sem simulacao<br/>
+<br/>
+Consultar todas as Simulacoes<br/>
+    . consultar corretamente com simulacao<br/>
+    . consultar corretamente sem simulacao<br/>
+<br/>
+Consultar uma simulacao <br/>
+    . consultar corretamente com simulacao<br/>
+    . Consultar corretamente sem simulacao<br/>
+<br/>
+Remover uma simulacao<br/>
+    . deletar com sucesso<br/>
+    . deletar sem simulacao<br/>
 
 
 
