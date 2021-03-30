@@ -24,11 +24,11 @@ Projeto de automação criado na IDE Eclipse usando Rest-Assured, projeto desenv
 
 ##### ***DOCUMENTAÇÃO***
 
-Alterar uma simulação
+Alterar uma simulação<br/>
 . Documento de orientação não possui a informação referente ao retorno de HTTP Status 409 (CPF já existente)<br/>
 
-Consultar todas simulações*
+Consultar todas simulações<br/>
 . Documentação técnica não possui informações sobre o retorno HTTP Status 204 para quando não existir simulações cadastradas<br/>
 
-Remover uma simulação*
+Remover uma simulação<br/>
 . Documentação técnico não possui informações sobre o retorno HTTP Status 404 - Simulação não encontrada<br/>
